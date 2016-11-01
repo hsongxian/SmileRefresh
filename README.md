@@ -6,6 +6,23 @@
 
 ####描述:
 	PullToRefreshView 是基于v4库的SwipeRefreshLayout上修改的动画的，SwipeRefreshLayout 有的方法PullToRefreshView 也有。
+####引入：
+ 1.在Properties的build.gradle 添加
+	
+```java
+allprojects {
+    repositories {
+        ......
+        maven { url "https://jitpack.io" }
+
+    }
+}
+```
+ 2.在Module的build.gradle 添加
+```java
+    compile 'com.github.songixan:SmileRefresh:1.1'
+
+```
 
 ####用法：
 
