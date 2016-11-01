@@ -1,4 +1,6 @@
 # SmileRefresh
+[！[]（https://jitpack.io/v/songixan/SmileRefresh.svg）]（https://jitpack.io/#songixan/SmileRefresh）
+
 
 ![这里写图片描述](http://img.blog.csdn.net/20161013202135750)
 
